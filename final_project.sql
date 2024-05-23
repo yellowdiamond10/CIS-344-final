@@ -51,10 +51,6 @@ BEGIN
 END//
 
 
-SHOW CREATE PROCEDURE addReservation;
-END//
-DROP PROCEDURE addreservation;
-END//
 
 INSERT INTO Customers_Table(customerName, contactInfo) VALUES('Daniel','daniel32@aol.com');
 END//
